@@ -1148,6 +1148,6 @@ button {
 
 /*# sourceMappingURL=main.css.map */
 
-.tabcontent img {
+.tabcontent img, blockquote {
   max-width: 100%;
 }
